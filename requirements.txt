@@ -1,0 +1,6 @@
+openai
+playwright
+jinja2
+typer
+pyyaml
+python-dotenv

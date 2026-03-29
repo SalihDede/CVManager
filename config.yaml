@@ -1,0 +1,16 @@
+llm:
+  provider: openrouter
+  model: google/gemini-3.1-flash-lite-preview   # openrouter model id
+  # api_key: env:OPENROUTER_API_KEY    # .env'den okunur
+
+lang: en                  # en | tr
+max_cv_pages: 2
+template: cv.html
+output_dir: outputs
+
+sections:
+  - experience
+  - education
+  - skills
+  - projects
+  - certifications

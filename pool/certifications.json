@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cert_001",
+    "name": "Microsoft AI Innovators Internship Program",
+    "issuer": "Microsoft",
+    "date": "2025-08-11",
+    "tags": ["ai", "machine-learning", "microsoft", "internship"]
+  },
+  {
+    "id": "cert_002",
+    "name": "OpenAI Assistant: Create a Code to UML-Diagram Generator",
+    "issuer": "Coursera / OpenAI",
+    "date": "2025-05-12",
+    "tags": ["openai", "ai", "uml", "software-engineering"]
+  },
+  {
+    "id": "cert_003",
+    "name": "GitHub Copilot for Beginners: Write Software With AI",
+    "issuer": "Coursera / GitHub",
+    "date": "2025-05-11",
+    "tags": ["github", "copilot", "ai", "developer-tools"]
+  },
+  {
+    "id": "cert_004",
+    "name": "Create Your First Automation Script Using Selenium and Java",
+    "issuer": "Coursera",
+    "date": "2025-05-11",
+    "tags": ["selenium", "java", "automation", "testing"]
+  },
+  {
+    "id": "cert_005",
+    "name": "Test Driven Development in Java for Beginners",
+    "issuer": "Coursera",
+    "date": "2025-05-11",
+    "tags": ["java", "tdd", "testing", "software-engineering"]
+  },
+  {
+    "id": "cert_006",
+    "name": "Create a Gantt Chart with Lucidchart",
+    "issuer": "Coursera",
+    "date": "2025-05-11",
+    "tags": ["project-management", "gantt", "lucidchart"]
+  },
+  {
+    "id": "cert_007",
+    "name": "How to Create a Jira SCRUM Project",
+    "issuer": "Coursera",
+    "date": "2025-05-11",
+    "tags": ["jira", "scrum", "agile", "project-management"]
+  },
+  {
+    "id": "cert_008",
+    "name": "Create User Stories in Jira",
+    "issuer": "Coursera",
+    "date": "2025-05-11",
+    "tags": ["jira", "agile", "user-stories", "project-management"]
+  },
+  {
+    "id": "cert_009",
+    "name": "Communicating In Groups and Teams",
+    "issuer": "Coursera",
+    "date": "2024-12-09",
+    "tags": ["soft-skills", "communication", "teamwork"]
+  },
+  {
+    "id": "cert_010",
+    "name": "Teaching Impacts of Technology: Global Society",
+    "issuer": "Coursera",
+    "date": "2024-12-28",
+    "tags": ["technology", "society", "education"]
+  },
+  {
+    "id": "cert_011",
+    "name": "Java ile Programlamaya Giriş",
+    "issuer": "BTK AKADEMİ",
+    "date": "2023-08-12",
+    "tags": ["java", "programming", "beginner"]
+  },
+  {
+    "id": "cert_012",
+    "name": "Tools for Data Science",
+    "issuer": "IBM",
+    "date": "2023-12-05",
+    "tags": ["data-science", "ibm", "tools"]
+  },
+  {
+    "id": "cert_013",
+    "name": "What is Data Science?",
+    "issuer": "IBM",
+    "date": "2023-12-05",
+    "tags": ["data-science", "ibm"]
+  },
+  {
+    "id": "cert_014",
+    "name": "Data Analysis with Python",
+    "issuer": "IBM",
+    "date": "2023-12-05",
+    "tags": ["python", "data-analysis", "ibm", "data-science"]
+  },
+  {
+    "id": "cert_015",
+    "name": "Build Dynamic User Interfaces (UI) for Websites",
+    "issuer": "Google",
+    "date": "2023-12-04",
+    "tags": ["frontend", "ui", "web", "google", "javascript"]
+  }
+]

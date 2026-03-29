@@ -1,0 +1,56 @@
+[
+  {
+    "id": "exp_001",
+    "title": "AI Engineer",
+    "company": "Codeventure",
+    "start": "2026",
+    "end": "present",
+    "description": "Work on AI agent and LLM based systems. Use LangGraph and LangChain tools and n8n to make and deploy automations with the power and effectiveness of NLP.",
+    "tags": ["ai-agent", "llm", "langgraph", "langchain", "n8n", "nlp", "automation", "python"]
+  },
+  {
+    "id": "exp_002",
+    "title": "AI Engineering Intern",
+    "company": "Codeventure",
+    "start": "2025",
+    "end": "2026",
+    "description": "Work on AI agent and LLM based systems. Use LangGraph and LangChain tools and n8n to make and deploy automations.",
+    "tags": ["ai-agent", "llm", "langgraph", "langchain", "n8n", "automation", "python", "internship"]
+  },
+  {
+    "id": "exp_003",
+    "title": "AI Engineering Intern",
+    "company": "Microsoft",
+    "start": "2025",
+    "end": "2025",
+    "description": "Work on ML and Neural Networks as an artificial intelligence intern.",
+    "tags": ["machine-learning", "neural-networks", "ai", "microsoft", "internship", "python"]
+  },
+  {
+    "id": "exp_004",
+    "title": "DevOps / Software Developer Intern",
+    "company": "Avcılar Kaymakamlığı",
+    "start": "2025",
+    "end": "2025",
+    "description": "Work as a Software Developer intern producing full stack programs as a solution.",
+    "tags": ["fullstack", "software-development", "devops", "internship", "react", "public-sector"]
+  },
+  {
+    "id": "exp_005",
+    "title": "Embedded Systems Intern",
+    "company": "Extoget Information Technologies Inc.",
+    "start": "2024",
+    "end": "2024",
+    "description": "Work on a TÜBİTAK project at Extoget as an embedded C programmer in a hardware team.",
+    "tags": ["embedded-systems", "c", "hardware", "tubitak", "internship", "low-level"]
+  },
+  {
+    "id": "exp_006",
+    "title": "Freelance Frontend Designer",
+    "company": "Fiverr",
+    "start": "2020",
+    "end": "2022",
+    "description": "Work as a designer (logo designer, banner designer, video designer etc.) before academic decisions.",
+    "tags": ["freelance", "frontend", "design", "logo-design", "video-design", "fiverr", "creative"]
+  }
+]

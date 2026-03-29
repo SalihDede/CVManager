@@ -1,0 +1,137 @@
+[
+  {
+    "id": "proj_014",
+    "title": "Hacivat & Karagöz — AI Shadow Play",
+    "year": "2026",
+    "description": "Digitalized the traditional Turkish shadow play (Karagöz) using an end-to-end AI pipeline. Takes a theme, keyword, or event as text input and generates a full performance autonomously. Scenario dialogues are produced by Gemini 2.0 Flash (via OpenRouter) with character-specific personalities. Voices are synthesized by fine-tuned XTTS v2 TTS models capturing original character tones. A synchronized animation engine renders the shadow puppets in real time.",
+    "tech_stack": ["Python", "FastAPI", "PIXI.js", "XTTS v2", "Gemini 2.0 Flash", "OpenRouter", "PyTorch", "TTS"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["tts", "fine-tuning", "fastapi", "pixi.js", "turkish-nlp", "nlp", "ai-pipeline", "generative-ai", "llm", "pytorch", "animation", "openrouter", "voice-synthesis"]
+  },
+  {
+    "id": "proj_015",
+    "title": "Fincan Kahvem Hatrına — Turkish RAP AI",
+    "year": "2026",
+    "description": "Fine-tuned the Kumru-2B model separately for Sagopa Kajmer and Ceza using LoRA. Built the dataset by annotating original verses with LLM and expanding it via few-shot synthetic data generation with Mistral Large 3. Integrated the system with LangGraph (guided by Claude Opus 4.5) to orchestrate a multi-step workflow: theme determination, artist harmony check, lyrics critique and refinement, and chorus writing. Model weights are open-source on HuggingFace.",
+    "tech_stack": ["Python", "LoRA", "LangGraph", "Mistral", "HuggingFace", "Synthetic Data Generation", "PyTorch", "RunPod"],
+    "links": { "demo": "https://lnkd.in/dVsA76My", "github": "https://lnkd.in/dMck73VS", "report": "" },
+    "tags": ["llm", "lora", "fine-tuning", "langgraph", "synthetic-data", "turkish-nlp", "nlp", "huggingface", "mistral", "pytorch", "mlops", "multi-agent", "openrouter"]
+  },
+  {
+    "id": "proj_001",
+    "title": "Kumru - Turkish NLP Character Chatbots",
+    "year": "2026",
+    "description": "Fine-tuned language models to create personality-driven chatbots in Turkish NLP. Developed two distinct characters using LoRA techniques: one capturing melancholic vocabulary and flow, another (Ceza) mimicking the speech style, vocabulary, and energetic perspective of Turkish rap artist Ceza. Implemented complete pipeline from web scraping and N-gram analysis to dataset creation, fine-tuning, and deployment.",
+    "tech_stack": ["Python", "Hugging Face Transformers", "LoRA", "PEFT", "NLTK", "PyTorch"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["nlp", "llm", "fine-tuning", "lora", "peft", "pytorch", "huggingface", "turkish-nlp", "chatbot", "web-scraping", "dataset"]
+  },
+  {
+    "id": "proj_002",
+    "title": "LinkedIn Automation System with LLM Integration",
+    "year": "2025",
+    "description": "Built an intelligent sales automation system that understands products, analyzes target LinkedIn profiles, and generates personalized outreach messages. Implemented human-in-the-loop workflow via Telegram bot where users review AI-generated messages before automated sending through Playwright-based LinkedIn automation.",
+    "tech_stack": ["Python", "Playwright", "LangChain", "SQL", "Telegram API"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["automation", "llm", "langchain", "playwright", "telegram-bot", "sql", "sales-automation", "human-in-the-loop", "scraping"]
+  },
+  {
+    "id": "proj_003",
+    "title": "Hulki (AI Agent)",
+    "year": "2025",
+    "description": "Hulki AI agent, a LangChain and LangGraph based learning assistant. Combines gaze estimation, speech analysis, NLP, and user interactions to calculate a real-time attention score. The agent warns the user in case of focus loss, suggests personalized study strategies, generates automatic lecture notes, and provides extensible features for different scenarios.",
+    "tech_stack": ["Python", "Vision", "NLP", "React", "ChromaDB", "LangChain", "LangGraph"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["ai-agent", "langchain", "langgraph", "nlp", "computer-vision", "chromadb", "react", "rag", "attention-tracking"]
+  },
+  {
+    "id": "proj_004",
+    "title": "Personnel Tracker System",
+    "year": "2025",
+    "description": "A modern system to track government personnel information locally without any payment. Desktop application built with Tauri (Rust backend) and React frontend.",
+    "tech_stack": ["React", "Tauri", "Rust"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["desktop-app", "tauri", "rust", "react", "government", "fullstack"]
+  },
+  {
+    "id": "proj_005",
+    "title": "That's FIFA",
+    "year": "2024",
+    "description": "Used Python web scraping to retrieve player data in JSON format. With TypeScript, developed a modern, user-friendly interface that provides ergonomic data access without altering the game screen. Features like categorization, sorting, and listing enabled faster and more efficient player searches.",
+    "tech_stack": ["TypeScript", "Python"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["web-scraping", "typescript", "python", "data", "ui", "game"]
+  },
+  {
+    "id": "proj_006",
+    "title": "Hit The Road",
+    "year": "2024",
+    "description": "A mobile application built with TypeScript and powered by Google APIs. Finds optimal routes between start and destination points, meeting daily needs with minimal time and energy. The 'Create Random Day' feature offers spontaneous plans for indecisive moments.",
+    "tech_stack": ["TypeScript", "Google APIs"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["mobile", "typescript", "google-api", "routing", "maps"]
+  },
+  {
+    "id": "proj_007",
+    "title": "Video Converter",
+    "year": "2024",
+    "description": "Developed a web and mobile-compatible video converter. Ad-free, fast, and user-friendly tool providing a reliable solution for converting video content easily.",
+    "tech_stack": ["Python", "TypeScript"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["python", "typescript", "web", "mobile", "media-processing", "fullstack"]
+  },
+  {
+    "id": "proj_008",
+    "title": "ABYSS - Party Multiplayer Game",
+    "year": "2024",
+    "description": "A 3D online multiplayer party game. The goal is to gain an advantage by winning mini-games and use that advantage to be the first to complete the game board.",
+    "tech_stack": ["C#", "Unity", "Blender"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["game-dev", "unity", "csharp", "3d", "multiplayer", "blender"]
+  },
+  {
+    "id": "proj_009",
+    "title": "8-Puzzle-Game",
+    "year": "2024",
+    "description": "Solve the 8-puzzle game efficiently with an A* algorithm-based solver. Finds the shortest path to the goal state, providing an optimal and fast approach with a user-friendly interface.",
+    "tech_stack": ["Java"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["java", "algorithm", "a-star", "ai", "search", "puzzle"]
+  },
+  {
+    "id": "proj_010",
+    "title": "Tetris 2048 Project",
+    "year": "2023",
+    "description": "A Python game that combines classic Tetris and 2048 gameplay. The game requires strategic thinking as tetrominoes merge following the 2048 rules.",
+    "tech_stack": ["Python"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["python", "game", "algorithms", "oop"]
+  },
+  {
+    "id": "proj_011",
+    "title": "Multi-Cycle CPU Design",
+    "year": "2023",
+    "description": "Developed a multi-cycle CPU for 8-bit data processing with register transfers and ALU operations on a shared 8-bit bus. Features 8 8-bit registers, a 2-bit counter for cycle management, and a control logic unit for instruction decoding.",
+    "tech_stack": ["Embedded Systems", "VHDL/Verilog"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["embedded-systems", "cpu-design", "hardware", "low-level", "digital-design"]
+  },
+  {
+    "id": "proj_012",
+    "title": "Shortest-Path-Finder",
+    "year": "2023",
+    "description": "A Java-based project to find the shortest route between cities. Supports uploading city data from a CSV file and finding shortest routes using BFS and DFS algorithms.",
+    "tech_stack": ["Java"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["java", "algorithm", "bfs", "dfs", "graph", "data-structures"]
+  },
+  {
+    "id": "proj_013",
+    "title": "Hanoi Tower Solver",
+    "year": "2023",
+    "description": "A Java program that calculates optimal disk movements for the Tower of Hanoi puzzle using recursion. Features user input and displays the solution step by step.",
+    "tech_stack": ["Java"],
+    "links": { "demo": "", "github": "", "report": "" },
+    "tags": ["java", "recursion", "algorithm", "data-structures"]
+  }
+]

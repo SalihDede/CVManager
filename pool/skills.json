@@ -1,0 +1,36 @@
+{
+  "technical": [
+    { "name": "Python", "level": "advanced", "tags": ["python", "backend", "ml", "automation"] },
+    { "name": "Java", "level": "intermediate", "tags": ["java", "oop", "backend", "algorithms"] },
+    { "name": "React", "level": "intermediate", "tags": ["react", "frontend", "javascript", "web"] },
+    { "name": "TypeScript", "level": "intermediate", "tags": ["typescript", "frontend", "web", "mobile"] },
+    { "name": "C#", "level": "intermediate", "tags": ["csharp", "unity", "game-dev"] },
+    { "name": "Rust", "level": "beginner", "tags": ["rust", "systems", "desktop"] },
+    { "name": "C (Embedded)", "level": "intermediate", "tags": ["c", "embedded-systems", "hardware", "low-level"] },
+    { "name": "SQL / PostgreSQL", "level": "intermediate", "tags": ["sql", "postgresql", "database", "backend"] },
+    { "name": "SQLite", "level": "intermediate", "tags": ["sqlite", "database"] },
+    { "name": "Docker", "level": "intermediate", "tags": ["docker", "devops", "containerization"] },
+    { "name": "Git / GitHub", "level": "advanced", "tags": ["git", "github", "version-control", "devops"] }
+  ],
+  "ai_ml": [
+    { "name": "LangChain", "level": "advanced", "tags": ["langchain", "llm", "ai-agent", "rag"] },
+    { "name": "LangGraph", "level": "advanced", "tags": ["langgraph", "ai-agent", "workflow", "llm"] },
+    { "name": "n8n", "level": "advanced", "tags": ["n8n", "automation", "no-code", "workflow"] },
+    { "name": "PyTorch", "level": "intermediate", "tags": ["pytorch", "deep-learning", "neural-networks"] },
+    { "name": "Hugging Face Transformers", "level": "intermediate", "tags": ["huggingface", "transformers", "llm", "nlp", "fine-tuning"] },
+    { "name": "LoRA / PEFT", "level": "intermediate", "tags": ["lora", "peft", "fine-tuning", "llm"] },
+    { "name": "NLTK", "level": "intermediate", "tags": ["nltk", "nlp", "text-processing"] },
+    { "name": "ChromaDB", "level": "intermediate", "tags": ["chromadb", "vector-db", "rag", "embeddings"] },
+    { "name": "Playwright", "level": "intermediate", "tags": ["playwright", "automation", "scraping", "testing"] }
+  ],
+  "tools": [
+    { "name": "Tauri", "level": "beginner", "tags": ["tauri", "desktop-app", "rust"] },
+    { "name": "Unity", "level": "intermediate", "tags": ["unity", "game-dev", "3d"] },
+    { "name": "Blender", "level": "beginner", "tags": ["blender", "3d", "modeling"] },
+    { "name": "Telegram Bot API", "level": "intermediate", "tags": ["telegram", "bot", "api"] }
+  ],
+  "languages": [
+    { "name": "Turkish", "level": "native" },
+    { "name": "English", "level": "professional" }
+  ]
+}

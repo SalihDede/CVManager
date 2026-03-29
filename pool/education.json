@@ -1,0 +1,24 @@
+[
+  {
+    "id": "edu_001",
+    "institution": "MEF University",
+    "degree": "Bachelor of Science",
+    "field": "Computer Engineering",
+    "start": "2021",
+    "end": "present",
+    "gpa": "3.58 / 4.0",
+    "notes": "4th year student",
+    "tags": ["computer-engineering", "university", "bachelor", "gpa-3.58"]
+  },
+  {
+    "id": "edu_002",
+    "institution": "Florya Final Anadolu High School",
+    "degree": "High School Diploma",
+    "field": "",
+    "start": "2018",
+    "end": "2019",
+    "gpa": "",
+    "notes": "Graduate with a high degree. Top student of the school.",
+    "tags": ["high-school", "top-student"]
+  }
+]

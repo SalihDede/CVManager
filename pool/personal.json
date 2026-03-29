@@ -1,0 +1,15 @@
+{
+  "name": "Muhammed Salih DEDE",
+  "title": "CS 4th Year Student | Computer Engineering",
+  "phone": "0535 884 81 82",
+  "email": "dedem@mef.edu.tr",
+  "location": "Avcılar / İstanbul",
+  "links": {
+    "github": "https://github.com/muhammed-salih-dede",
+    "linkedin": "https://linkedin.com/in/muhammed-salih-dede",
+    "huggingface": "https://huggingface.co/muhammed-salih-dede",
+    "kaggle": "https://kaggle.com/muhammedsalihdede",
+    "medium": "https://medium.com/@salih12dede"
+  },
+  "_note": "about paragrafı her başvuruda LLM tarafından pozisyona özel üretilir — burada tutulmaz."
+}

@@ -1,0 +1,48 @@
+AI Agent Developer — AITOPIA
+
+Location: Remote (SF Bay Area preferred)
+Type: Full-time
+
+About AITOPIA
+
+AITOPIA is an AI App Store & AI Agent Marketplace used by more than 3 million users. We ship production-grade agents that help SMBs and creators get real work done including sales, support, content, commerce, and automation. If you love turning messy real-world workflows into reliable autonomous systems, you'll feel at home here.
+
+The Role
+
+We're hiring an AI Agent Developer to design, build, and operate autonomous/multi-agent systems end-to-end. You'll own prompt/tool design, orchestration, retrieval, evals, safety, and cost/perf, then watch your agents scale to thousands of users.
+
+What You'll Do
+
+Architect and ship production agents (single & multi-agent): retrieval, planning, tool use, function calling, HITL.
+Build integrations & tools (REST/GraphQL, webhooks, plugins) across SaaS (Shopify/Wix/WordPress, CRMs, help desks).
+Implement RAG pipelines (chunking, indexing, reranking), vector+metadata strategies, caching.
+Own orchestration (state machines/graphs), memory, long-running tasks; retries/timeouts/fallbacks.
+Stand up evals & observability (unit/regression evals, offline/online telemetry), red-team tests, guardrails.
+Optimize latency, reliability, and cost (model choice, distillation, batching, streaming).
+
+Tech You'll Touch
+
+Languages: Python, TypeScript
+Agent/RAG: LangChain/LangGraph, LlamaIndex, AutoGen, CrewAI (or similar)
+Models: OpenAI / Anthropic / Google / Mistral + OSS (Llama, Qwen, etc.)
+Vector & Data: Pinecone, Weaviate, Qdrant, pgvector; Redis; Postgres
+Infra: AWS/GCP/Azure, Docker/K8s, serverless; CI/CD; feature flags
+Eval/Obs: LangSmith, Weights & Biases, custom harnesses
+Safety/Compliance: prompt/response filtering, PII detection, rate-limit & cost controls
+
+You May Be a Great Fit If You Have
+
+3+ years building backend or ML-powered products (mid-senior or staff).
+Shipped at least one production LLM/agentic system with real users.
+Strong prompt & tool design, function calling, multi-step planning skills.
+Practical RAG experience (indexing strategies, retrieval quality, evals).
+Solid engineering fundamentals (design, testing, observability).
+A product mindset—you care about UX, adoption, and measurable outcomes.
+
+Bonus Points
+
+Multi-agent graphs/planners/simulators (LangGraph/AutoGen/CrewAI).
+Commerce & CMS integrations (Shopify, Wix, WordPress) or CRM/help desk tools.
+Multimodal (vision, audio) and structured output experience.
+LLM FinOps (quotas, tenant isolation, cost attribution).
+Open-source contributions, talks, papers, or public demos.
